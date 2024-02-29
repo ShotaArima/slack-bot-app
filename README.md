@@ -18,3 +18,7 @@ Androidアプリの実行にひつようなファイル類で、.java以外の�
   - [strings.xml](https://github.com/ShotaArima/slack-bot-app/blob/main/app/src/main/res/values/strings.xml) : 固定文字列の情報を格納
   - [themes.xml](https://github.com/ShotaArima/slack-bot-app/blob/main/app/src/main/res/values/themes.xml) : 画面テーマの情報を格納
   - [colors.xml](https://github.com/ShotaArima/slack-bot-app/blob/main/app/src/main/res/values/colors.xml) : 色構成の情報の格納
+
+## 参考文献
+- [NFCの基礎について ~Android developers~](https://developer.android.com/develop/connectivity/nfc/nfc?hl=ja)
+- [NFC Adaptorについて](https://developer.android.com/reference/android/nfc/NfcAdapter#ACTION_TECH_DISCOVERED)
