@@ -1,5 +1,9 @@
 ﻿# slack-bot-app
 
+ # 目標
+ ICカードリーダから学生証の情報を読み込み、gから始まる学生番号をtextboxに読み込ませ、入室退室のトリガーとする
+ AWSへの通信プロトコルはHTTPで、hidden要素に学生番号と入室か退室のflg(2値)情報を送り込む
+
 ## ディレクトリ構造
 ### manifests
 - [AndroidManifests.xml](https://github.com/ShotaArima/slack-bot-app/blob/main/app/src/main/AndroidManifest.xml) : このアプリに必要な設定ファイルが記述されている
