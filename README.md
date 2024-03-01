@@ -9,6 +9,7 @@
 - [AndroidManifests.xml](https://github.com/ShotaArima/slack-bot-app/blob/main/app/src/main/AndroidManifest.xml) : このアプリに必要な設定ファイルが記述されている
 ## java
 - [Android_Test](https://github.com/ShotaArima/slack-bot-app/tree/main/app/src/androidTest) : Androidアプリをテストするための.javaファイル
+- [MainActivity](https://github.com/ShotaArima/slack-bot-app/tree/main/app/src/main/java/com/example/lab_entry/MainActivity.java) : アプリのバックエンド部分
 ## res
 Androidアプリの実行にひつようなファイル類で、.java以外のものを格納するフォルダです。
 - [drawable](https://github.com/ShotaArima/slack-bot-app/tree/main/app/src/main/res/drawable) : 画像を格納
